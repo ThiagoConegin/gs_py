@@ -2,7 +2,7 @@
 paciente = []
 registros_consultas = []
 
-
+dwaudhap = 0
 
 def listar_paciente(paciente):
     if not paciente:
