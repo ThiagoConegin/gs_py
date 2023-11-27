@@ -2,7 +2,8 @@
 paciente = []
 registros_consultas = []
 
-
+dwaudhap = 0
+wnioaodowadiop = 9
 
 def listar_paciente(paciente):
     if not paciente:
@@ -66,6 +67,8 @@ def registros_de_consultas(consulta):
     consulta_total = len(consulta)
     print(f"O total de consultas é: {consulta_total}")
     
+    #fiesnuiofsenuifei
+    mail = "jidwaid"
 
 while True:
     print("\nMenu:")
