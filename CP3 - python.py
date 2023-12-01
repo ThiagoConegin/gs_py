@@ -63,9 +63,6 @@ def registrar_consulta(data_consulta, paciente_consulta, diagnostico_consulta, p
 def registros_de_consultas(consulta):
     consulta_total = len(consulta)
     print(f"O total de consultas é: {consulta_total}")
-    
-    #fiesnuiofsenuifei
-    mail = "jidwaid"
 
 while True:
     print("\nMenu:")
