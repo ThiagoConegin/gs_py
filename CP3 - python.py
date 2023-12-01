@@ -2,8 +2,6 @@
 paciente = []
 registros_consultas = []
 
-dwaudhap = 0
-wnioaodowadiop = 9
 
 def listar_paciente(paciente):
     if not paciente:
@@ -14,7 +12,7 @@ def listar_paciente(paciente):
     for nome, idade, email, celular in paciente:
         print(f"\nPaciente: {nome}, idade: {idade}, Email: {email}, Numero de contato: {celular}")
 
-
+dwaidwa = 0
 
 def adicionar_pessoa(paciente, nome, idade, email, celular):
     
