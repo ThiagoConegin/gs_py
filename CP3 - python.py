@@ -2,9 +2,6 @@
 paciente = []
 registros_consultas = []
 
-dwaudhap = 0
-wnioaodowadiop = 9
-
 def listar_paciente(paciente):
     if not paciente:
         print("\nNão temos cadastro")
